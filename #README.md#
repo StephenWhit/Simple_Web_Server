@@ -1,0 +1,12 @@
+Stephen Whitcomb 811330368
+CSCI 4760 Networks
+Project1
+
+Description:
+This program is a simple web server. It listens for connections and accepts them concurrently.
+It parses the messages as an HTTP request and fulfills the request. 
+
+Activate the virtual environment by navigating into the pj01 directory and typing $ source bin/activate
+
+Run the server by typing $ python3 web_server.py 
+    you can al
