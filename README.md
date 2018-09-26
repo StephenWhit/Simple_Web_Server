@@ -23,3 +23,6 @@ vcf(#):47743(/path)
 
 Connect via telnet by typing:
 $ telnet vcf(#) 47743
+
+Caveat: The test files (forbidden and no_access) that are meant to test the 403 forbidden error were reformatted
+so git could access them to upload.To change this for testing purposes use the chmod command 
